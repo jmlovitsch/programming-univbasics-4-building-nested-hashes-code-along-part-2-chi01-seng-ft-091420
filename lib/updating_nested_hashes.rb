@@ -53,7 +53,6 @@ def add_characters
          ]
       }
    }
-epic_tragedy[:montague][:hero][:status] = "dead"
 
    # Write code below that does the following programmatically:
    #
